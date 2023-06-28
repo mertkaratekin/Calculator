@@ -6,19 +6,19 @@ body{
 #hesapM{
     margin: 0 auto;
     height: auto;
-    width: 400px;
-    background-color: aqua;
+    width: 350px;
+    background-color: rgb(0, 50, 65);
     border: 2px solid;
     border-radius: 5px;
     padding: 10px ;
 }
 #gösterge{
     text-align: center;
-    padding: 10px 0px 10px 0px  ; 
+    padding: 20px 0px 20px 0px  ; 
 
 }
 #sonuc{
-    border:  2px solid;
+    border:  3px solid;
     padding: 10px;
     border-radius: 10px;
     width:  80%;
@@ -28,12 +28,19 @@ body{
 }
 #buttonlar{
    text-align: center;
+   
 }
 button{
-    width: 80px;
-    height: 50px;
+    width: 70px;
+    height: 60px;
     margin: 4px;
-    border-radius: 5px;
-    background-color: bisque;
+    border-radius: 10px;
+    background-color: white;
     outline: none;
+    border:  3px solid;
+
+}
+.aritmetik{
+    font-size: larger;
+    
 }
